@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TimAnders/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/tim-anders.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/TimAnders/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=1&branchName=build-pipeline)
 
 # Contributing
 
@@ -64,4 +65,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
 
-[![Build Status](https://dev.azure.com/TimAnders/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/tim-anders.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/TimAnders/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=1&branchName=build-pipeline)
+
